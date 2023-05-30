@@ -11,6 +11,7 @@ const Register = () => {
                     <input type="email" placeholder="Enter Email" />
                     <input type="tel" placeholder="Enter Phone Number"/>
                     <input type="password" placeholder="Enter Password" />
+                    <input type="password" placeholder="Re-Enter Password" />
                     <input type="file" style={{display:"none"}} placeholder="Upload Image" id="file"/>
                     <label htmlFor="file">
                         Add an Avatar <RiUploadCloud2Line />

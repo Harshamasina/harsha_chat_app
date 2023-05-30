@@ -7,7 +7,7 @@ const Login = () => {
             <div className="form-container">
                 <div className="form-wrapper">
                     <h1>Welcome to</h1>
-                    <img src="https://cellix-bio-mis.s3.ap-south-1.amazonaws.com/Chatterbox/chatterbox-high-resolution-logo-color-on-transparent-background.webp" alt = "logo" />
+                    <img src="https://cellix-bio-mis.s3.ap-south-1.amazonaws.com/Chatterbox/Chatterbox+logo+box.webp" alt = "logo" />
                     <span>Login</span>
                     <form>
                         <input type="email" placeholder="Enter Email" />

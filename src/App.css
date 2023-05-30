@@ -122,8 +122,8 @@ input:focus, textarea:focus, select:focus {
 }
 
 .form-wrapper img{
-    width: 60%;
-    height: 90px;
+    width: 80%;
+    height: 60px;
 }
 
 .form-wrapper form{
@@ -264,7 +264,7 @@ input:focus, textarea:focus, select:focus {
 }
 
 .logo img{
-    width: 50%;
+    width: 60%;
     height: 40%;
 }
 

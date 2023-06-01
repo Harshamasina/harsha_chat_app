@@ -1,7 +1,15 @@
+import Message from './Message';
+
 const Messages = () => {
     return (
-        <div>
-            <h1>Messages</h1>
+        <div className='messages'>
+            <Message />
+            <Message />
+            <Message />
+            <Message />
+            <Message />
+            <Message />
+            <Message />
         </div>
     )
 };
